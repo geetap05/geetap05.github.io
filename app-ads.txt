@@ -1,2 +1,4 @@
 google.com, pub-2921598450566546, DIRECT, f08c47fec0942fa0
+google.com, pub-2960293519697422, DIRECT, f08c47fec0942fa0
+gameadzone.com, 2451, DIRECT
 facebook.com, 859595867721547, DIRECT, c3e20eee3f780d68
